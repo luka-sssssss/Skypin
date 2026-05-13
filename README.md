@@ -1,14 +1,14 @@
-# Skypin
+# SkyPin
 
-This is the official repository for the paper "SkyPin: Benchmarking Target Geo-localization from UAV Imagery on 2.5D Maps". This project focuses on advancing UAV cross-view matching and target geo-localization technologies.
+This is the official repository for the paper **"SkyPin: Benchmarking Target Geo-localization from UAV Imagery on 2.5D Maps"**. This project focuses on UAV cross-view matching and target geo-localization.
 
 ## 🚀 Data and Code Availability
 
 The complete dataset, evaluation tools, and source code supporting this study have been prepared. 
 
-Since the manuscript is currently under peer review, the contents of this repository are temporarily withheld. The repository is currently under preparation, and we will release the full contents shortly after the paper is officially accepted and published. 
+As the manuscript is currently under consideration by the journal, the full contents of this repository are not yet publicly released. **They will be made publicly available upon the official publication of the paper.**
 
-If you are an editor or reviewer requiring access to the data for evaluation purposes, please feel free to contact the corresponding author. We are happy to provide the necessary materials upon request.
+A minimal dataset has already been submitted through the journal system for evaluation purposes. If additional materials are required for editorial assessment, please contact the corresponding author.
 
 ## 🏢 Affiliation
 
